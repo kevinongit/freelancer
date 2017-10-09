@@ -1,0 +1,8 @@
+<span class="count">Number of freelancers online: {{(freelancers | async).length}}</span>
+<div class="freelancer fade thumbail" *ngFor="let freelancer of freelancers | async">
+    <button type="button" class="close" aria-label="Close" (click)="delete(freelancer)"><span aria-hidden="true">&times;</span></button><br>
+    <img class="img-circle center-block" src="{{freelancer.thumbnail}}" /><br>
+    <div class="info"><span><strong>Name: </strong>{{freelancer.name}}</span>
+        <span><strong>Email: </strong>{{freelancer.email}}</span></div>
+    <a class="btn btn-default">Hire {{freelancer.name}}</a>
+</div>

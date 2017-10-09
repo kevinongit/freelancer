@@ -1,0 +1,7 @@
+<form class="filter">
+    <label>Name</label>
+    <input type="text" [formControl]="name" name="name"/>
+    <label>Email</label>
+    <input type="text" [formControl]="email" name="email"/>
+    <a (click)="clearFilter()" class="btn btn-default">Clear Filter</a>
+</form>
