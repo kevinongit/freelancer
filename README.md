@@ -1,4 +1,6 @@
-# ToptalFreelancers (corrected exmaple from https://www.freelancer.com/community/articles/ngrx-and-angular-2-tutorial-building-a-reactive-application)
+# ToptalFreelancers 
+
+corrected exmaple from https://www.freelancer.com/community/articles/ngrx-and-angular-2-tutorial-building-a-reactive-application)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.3.
 
