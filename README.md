@@ -5,7 +5,8 @@ corrected exmaple from https://www.toptal.com/angular-js/ngrx-angular-reaction-a
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.3.
 
 ## Prerequisite
-instal angular-cli
+install angular-cli
+
 npm install -g angular-cli
 
 cd freelancer
