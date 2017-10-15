@@ -10,6 +10,7 @@ install angular-cli
 npm install -g angular-cli
 
 cd freelancer
+
 npm install
 
 ## Development server
