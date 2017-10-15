@@ -4,6 +4,13 @@ corrected exmaple from https://www.toptal.com/angular-js/ngrx-angular-reaction-a
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.3.
 
+## Prerequisite
+instal angular-cli
+npm install -g angular-cli
+
+cd freelancer
+npm install
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
